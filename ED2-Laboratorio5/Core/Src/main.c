@@ -14,6 +14,15 @@
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
   ******************************************************************************
+  * Universidad del Valle de Guatemala
+  * IE3054: Electrónica Digital 2
+  * Laboratorio 5
+  * Autor: Alma Lisbeth Mata Ixcayau
+  * Proyecto: Laboratorio 5 - Generador de funciones
+  * Descripcion: Se utilizan los timers para leer la frecuencias de un generador de funcions y generar señales PWM
+  * Creado: 10/03/2026
+  *
+  ******************************************************************************
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
