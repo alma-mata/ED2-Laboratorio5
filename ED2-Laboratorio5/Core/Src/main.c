@@ -457,7 +457,7 @@ void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim){
 
 	            frecuencia = (float)ftimclk / (float)delta;  // ftimclk = 1000000
 	            numFlanco = 0;
-	            flagMedicion = 1;  // ← Setear en 1, no incrementar
+	            flagMedicion = 1;
 	        }
 	    }
 }
